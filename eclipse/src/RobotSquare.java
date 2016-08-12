@@ -10,7 +10,8 @@ public class RobotSquare {
 		robot.setSpeed(10);
 		for (int i = 0; i < 6; i = i + 1) {
 			robot.move(200);
-			robot.turn(60);
+			robot.turn(65);
+			
 		}
 
 	}
